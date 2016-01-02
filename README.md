@@ -5,4 +5,4 @@ Firmware for Polly, a deterministic Bitcoin hardware wallet adhering to [BIP32].
 The code is now open source for anyone to advance or fork the project.
 
 
-More information on the project is found on the Polly github wiki page (https://github.com/ngburke/polly)
+More information on the project is found on the Polly github wiki page (https://github.com/ngburke/polly/wiki)
